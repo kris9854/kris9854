@@ -17,5 +17,6 @@
 
 [linkedin]: https://www.linkedin.com/in/kristianebdrup/
 [twitter]: https://twitter.com/TrimmerWolf7
+<br />
 [developer.cisco]: https://developer.cisco.com/user/profile/d80dd8ec-215c-57b1-a081-3df1b9419601
 [TryHackMe]: https://tryhackme.com/p/kris9854
