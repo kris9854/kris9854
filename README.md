@@ -9,7 +9,6 @@
 [<img align="left" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 <br />
 <br />
-<br />
 [<img align="left" alt="developer.cisco" src="https://img.shields.io/badge/developer.cisco-049FD9?style=for-the-badge&logo=Cisco&logoColor=white" />][developer.cisco]
 [<img align="left" alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-1C2538?style=for-the-badge&logo=tryhackme&logoColor=white" />][TryHackMe]
 
