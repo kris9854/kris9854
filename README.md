@@ -1,6 +1,6 @@
 ## Hi there, I'm Kristian Ebdrup 👋
 
-- 🔭 I’m currently working on network automation
+- 🔭 I’m currently working on automation using Ansible
 - 🌱 I’m currently writing ansible roles, playbooks and scripts
 - ⚡ Fun fact: I love shoulder training
 
