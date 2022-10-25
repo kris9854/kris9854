@@ -21,3 +21,4 @@
 [twitter]: https://twitter.com/TrimmerWolf7
 [developer.cisco]: https://developer.cisco.com/user/profile/d80dd8ec-215c-57b1-a081-3df1b9419601
 [TryHackMe]: https://tryhackme.com/p/kris9854
+![Profile views](https://gpvc.arturio.dev/kris9854)
