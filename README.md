@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-	<title>ReadMe Information</title>
-</head>
-
 <h1 style="font-size:40px;">Hi there, I'm Kristian Ebdrup 👋</h1>
 
 <ul style="list-style: '-';">
@@ -45,9 +41,9 @@
 	</li>
 </ul>
 
-<p align="center">
+<p align="left">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=powershell,ansible,linux,git,github,vscode" />
+		<img src="https://skillicons.dev/icons?i=powershell,ansible,linux,git,github,vscode&perline=3" />
 		</br>
 		<img src="https://gpvc.arturio.dev/kris9854" alt="Profile views">
 	</a>
@@ -55,7 +51,7 @@
 
 </br>
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/LordDashMe/github-contribution-stats/">
 		<img src="https://github-contribution-stats.vercel.app/api/?username=kris9854" alt="Contribution Stats">
 	</a>
