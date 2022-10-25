@@ -40,8 +40,8 @@
 		</a>
 	</li>
 </ul>
-
-<p align="left">
+<br />
+<p>
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=powershell,ansible,linux,git,github,vscode&perline=3" />
 		</br>
@@ -51,7 +51,7 @@
 
 </br>
 
-<p align="left">
+<p>
 	<a href="https://github.com/LordDashMe/github-contribution-stats/">
 		<img src="https://github-contribution-stats.vercel.app/api/?username=kris9854" alt="Contribution Stats">
 	</a>
