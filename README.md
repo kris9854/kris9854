@@ -50,12 +50,15 @@
 </p>
 
 </br>
-
-<p>
-	<a href="https://github.com/LordDashMe/github-contribution-stats/">
-		<img src="https://github-contribution-stats.vercel.app/api/?username=kris9854" alt="Contribution Stats">
-	</a>
-</p>
-
+<details>
+  <summary>Github Stats ⚡</summary>
+	<p>
+		<a href="https://github.com/anuraghazra/github-readme-stats/">
+			<img src="https://github-readme-stats.vercel.app/api?username=kris9854&theme=dracula&count_private=true&hide_border=true&line_height=20" alt="Contribution Stats">
+		</a>
+		<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris9854&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Langs"
+				  </a>
+	</p>
+</details>
 
 </html>
