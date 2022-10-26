@@ -54,9 +54,9 @@
   <summary>Github Stats ⚡</summary>
 	<p>
 		<a href="https://github.com/anuraghazra/github-readme-stats/">
-			<img src="https://github-readme-stats.vercel.app/api?username=kris9854&theme=dracula&count_private=true&hide_border=true&line_height=20" alt="Contribution Stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=kris9854&theme=nightowl&count_private=true&hide_border=true&line_height=20" alt="Contribution Stats">
 		</a>
-		<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris9854&layout=compact&theme=dracula&count_private=true&hide_border=true" alt="Top Langs"
+		<a href="#"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kris9854&layout=compact&theme=nightowl&count_private=true&hide_border=true" alt="Top Langs"
 				  </a>
 	</p>
 </details>
